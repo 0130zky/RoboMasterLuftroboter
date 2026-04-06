@@ -1,1 +1,3 @@
 # RoboMasterLuftroboter
+#这里是西安理工大学Robomaster的Next-E战队无人机机组26赛季无人机飞手为新入行的RMer写的指导。
+#无论是你想要成为飞手或是调节飞控，你都能在这里找到你想要的
